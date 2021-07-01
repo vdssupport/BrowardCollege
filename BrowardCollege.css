@@ -119,7 +119,7 @@ button.submit-login:focus
 }
 
 .user-info {
-    color: #fff;
+    color: #2A2623;
 }
 
 .user-info a {
@@ -128,7 +128,7 @@ button.submit-login:focus
 
 .user-info a:hover,
 .user-info a:focus {
-    color: #fff;
+    color: #2A2623;
 }
 
 .open-nav {
@@ -142,7 +142,7 @@ button.submit-login:focus
 }
 
 .admin-links .fa {
-    color: #a38dc6; /*default #007bff*/
+    color: #fff; /*default #007bff*/
 }
 
 table th,
@@ -172,6 +172,6 @@ button.download_button {
 
 
 .header-page h1 {
-    color: #fff;
+    color: #2A2623;
 
 }
