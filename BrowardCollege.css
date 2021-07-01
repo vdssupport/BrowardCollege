@@ -19,7 +19,7 @@ html {
 }
 
 header.header-main {
-  background-color: #442A7B;
+  background-color: #fff;
   height:8.5em;
 }
 
@@ -31,11 +31,11 @@ header.header-main {
 }
 
 header.header-page {
-  background-color:#e2d3f9;
+  background-color:#442A7B;
 }
 
 .header-page .tabs li a {
-  border-bottom-color:#e2d3f9};
+  border-bottom-color:#442A7B};
   color: ##181818;
 }
 
@@ -68,8 +68,8 @@ header.header-page {
 .header-page .buttons button:hover,
 .header-page .buttons button:focus 
 {
-  background-color: #ffc425;
-  color: #fff;
+  background-color: #C3D156;
+  color: #005596;
 
   /* Alternative if the above doesn't look so great.
   background-color: #{{Color_2}};
