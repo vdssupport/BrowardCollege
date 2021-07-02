@@ -34,23 +34,28 @@ header.header-main {
 /*  photos/people panel background color */
 
 header.header-page {
-  background-color:#442A7B;
+  background-color:#219CC6;
 }
 
+
+/* highlight below inactive tab  */
+
 .header-page .tabs li a {
-  border-bottom-color:#442A7B};
+  border-bottom-color:#A9DEED};
   color: #fff;
 }
 
 .header-page .tabs li a:hover,
 .header-page .tabs li a:focus
 {
-  color: #442A7B;
+  color: #A9DEED;
 }
 
-/* Keep this block only if it looks good. */
+
+
+/* highlight below active tab */
 .header-page .tabs a.active {
-    border-bottom-color: #94449F;
+    border-bottom-color: #005596;
 	color: #fff;
 }
 
