@@ -175,3 +175,12 @@ button.download_button {
     color: #fff;
 
 }
+
+
+
+/* sidebar background color*/
+.sidebar-main, .sidebar-mobile {
+	background: #005596;
+	
+}
+
