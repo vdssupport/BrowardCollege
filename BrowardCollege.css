@@ -30,6 +30,9 @@ header.header-main {
   background-size: contain;
 }
 
+
+/*  photos/people panel background color */
+
 header.header-page {
   background-color:#442A7B;
 }
@@ -146,7 +149,7 @@ button.submit-login:focus
 }
 
 .admin-links a {
-	background: #353535;
+	background: #005596;
 }
 	
 
