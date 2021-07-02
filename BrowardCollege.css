@@ -145,6 +145,11 @@ button.submit-login:focus
     color: #fff; /*default #007bff*/
 }
 
+.admin-links a {
+	background: #353535;
+}
+	
+
 table th,
 table td {
     background: #{{Color_2_Tint}};
